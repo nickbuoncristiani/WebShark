@@ -1,5 +1,5 @@
 # Web Shark  
-![Local Image](logo.jpg){:height="125px" width="125px"} 
+<img src="logo.jpg" height="125" width="125">
 
 ### Mission
 We aren't swimming in Google's wake... we're following following a trail of blood!
